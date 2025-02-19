@@ -23,13 +23,21 @@ project:
 4. **Save & generate a QR code** to access it anytime.  
 
 ## **Hosting Guide**  
-### **[AWS S3 Guide (Recommended)](https://github.com/gsrntvc2102000/open-emergency-medical-profile/blob/c1bd3e898f5dbea5585910a1ebd3a6da5d10beea/Step-by-Step%20Guide%3A%20Hosting%20on%20AWS%20S3)**
-
+### **AWS S3 (Recommended)**  
 1. Create an **AWS S3 bucket**.  
 2. Enable **Static Website Hosting** in bucket settings.  
 3. Upload the project files.  
 4. Set permissions to **public read access** (or use private QR-based access).  
 5. Done! Your profile is now live.  
+
+### **[AWS S3 Guide (Recommended)](https://github.com/gsrntvc2102000/open-emergency-medical-profile/blob/main/Step-by-Step%20Guide%3A%20Hosting%20on%20AWS%20S3)**  
+If you prefer AWS S3, follow this detailed guide.  
+
+### **[GitHub Pages Guide](https://github.com/gsrntvc2102000/open-emergency-medical-profile/blob/main/Step-by-Step%20Guide%3A%20Hosting%20on%20GitHub%20Pages)**  
+For users who want a free and simple static hosting solution via GitHub Pages.  
+
+### **[Netlify/Vercel Guide](https://github.com/gsrntvc2102000/open-emergency-medical-profile/blob/main/Step-by-Step%20Guide%3A%20Hosting%20on%20Netlify%20or%20Vercel)**  
+For those looking for an easy one-click deployment with free hosting and automatic updates.  
 
 ## **Security & Privacy**  
 🔒 **No centralized data storage**—you control everything.  

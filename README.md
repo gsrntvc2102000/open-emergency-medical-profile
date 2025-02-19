@@ -23,7 +23,7 @@ project:
 4. **Save & generate a QR code** to access it anytime.  
 
 ## **Hosting Guide**  
-### **AWS S3 (Recommended)**  
+### **### **[AWS S3 (Recommended)](https://aws.amazon.com/s3/)(Recommended)**  
 1. Create an **AWS S3 bucket**.  
 2. Enable **Static Website Hosting** in bucket settings.  
 3. Upload the project files.  

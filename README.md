@@ -36,7 +36,7 @@ If you prefer AWS S3, follow this detailed guide.
 ### **[GitHub Pages Guide](https://github.com/gsrntvc2102000/open-emergency-medical-profile/blob/main/GitHub%20Pages)**  
 For users who want a free and simple static hosting solution via GitHub Pages.  
 
-### **[Netlify/Vercel Guide](https://github.com/gsrntvc2102000/open-emergency-medical-profile/blob/main/Netlify%20or%20Vercel)**  
+### **[Netlify/Vercel Guide](https://github.com/gsrntvc2102000/open-emergency-medical-profile/blob/main/Step-by-Step Guide: Hosting on Netlify or Vercel)**  
 For those looking for an easy one-click deployment with free hosting and automatic updates.  
 
 ## **Security & Privacy**  

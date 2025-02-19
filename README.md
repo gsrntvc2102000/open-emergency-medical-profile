@@ -23,7 +23,7 @@ project:
 4. **Save & generate a QR code** to access it anytime.  
 
 ## **Hosting Guide**  
-### **### **[AWS S3 (Recommended)](https://aws.amazon.com/s3/)(Recommended)**  
+### **### **[AWS S3 (Recommended)]([https://aws.amazon.com/s3/](https://github.com/gsrntvc2102000/open-emergency-medical-profile/blob/c1bd3e898f5dbea5585910a1ebd3a6da5d10beea/Step-by-Step%20Guide%3A%20Hosting%20on%20AWS%20S3))(Recommended)**  
 1. Create an **AWS S3 bucket**.  
 2. Enable **Static Website Hosting** in bucket settings.  
 3. Upload the project files.  

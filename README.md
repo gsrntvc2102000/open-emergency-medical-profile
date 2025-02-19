@@ -3,7 +3,7 @@ project:
 
 ---
 
-# **Open Emergency Medical Profile** 🚑  
+# **Open Emergency Medical Profile** 👨🏼‍💻&👩🏼‍💻 with 📲 for 🚑  
 *A 100% free, open-source emergency medical profile website. No centralized control—users host it on AWS S3 or locally. Easily store & access vital health info with QR codes. Secure, lightweight, and accessible to all.*  
 
 [![Open Emergency Medical Profile](https://github.com/user-attachments/assets/ac31c2e5-581f-436d-81fc-3dabd22e3505)](https://myemergency.s3.amazonaws.com/index.html)  
